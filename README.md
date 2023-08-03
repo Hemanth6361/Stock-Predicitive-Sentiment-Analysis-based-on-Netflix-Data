@@ -8,15 +8,15 @@ In the last decade, sentiment analysis has carried great importance because of t
 
 ## Hardware Requirement Specification
 
-●	Processor: Minimum 1 GHz; Recommended 2GHz or more
-●	Ethernet connection (LAN) OR a wireless adapter (Wi-Fi)
-●	Hard Drive: Minimum 32 GB; Recommended 64 GB or more
-●	Memory (RAM): Minimum 1 GB; Recommended 4 GB or above
-●	Sound card w/speakers
-●	Some classes require a camera and microphone
+- Processor: Minimum 1 GHz; Recommended 2GHz or more
+- Ethernet connection (LAN) OR a wireless adapter (Wi-Fi)
+- Hard Drive: Minimum 32 GB; Recommended 64 GB or more
+- Memory (RAM): Minimum 1 GB; Recommended 4 GB or above
+- Sound card w/speakers
+- Some classes require a camera and microphone
 
 ## Software Requirement Specification
 
-●	Platform: Anaconda
-●	Environment: Python 3
-●	Modules: Matplotlib, NumPy, Pandas, Keras, Tensorflow. 
+- Platform: Anaconda
+- Environment: Python 3
+- Modules: Matplotlib, NumPy, Pandas, Keras, Tensorflow. 
